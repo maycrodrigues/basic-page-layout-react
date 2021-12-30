@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Basic Page with Create React App + Typescript + ESLint + Prettier + TailwindCSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
